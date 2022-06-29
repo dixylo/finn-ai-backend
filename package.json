@@ -1,0 +1,14 @@
+{
+  "name": "finn-ai-backend",
+  "version": "1.0.0",
+  "description": "This is the backend of the coding test required by Finn AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Frank Lin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
